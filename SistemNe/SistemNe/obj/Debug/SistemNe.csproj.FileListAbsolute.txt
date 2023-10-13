@@ -1,0 +1,13 @@
+C:\Users\erkan\source\repos\SistemNe\SistemNe\bin\Debug\SistemNe.exe.config
+C:\Users\erkan\source\repos\SistemNe\SistemNe\bin\Debug\SistemNe.exe
+C:\Users\erkan\source\repos\SistemNe\SistemNe\bin\Debug\SistemNe.pdb
+C:\Users\erkan\source\repos\SistemNe\SistemNe\obj\Debug\SistemNe.csproj.AssemblyReference.cache
+C:\Users\erkan\source\repos\SistemNe\SistemNe\obj\Debug\SistemNe.csproj.SuggestedBindingRedirects.cache
+C:\Users\erkan\source\repos\SistemNe\SistemNe\obj\Debug\SistemNe.Form1.resources
+C:\Users\erkan\source\repos\SistemNe\SistemNe\obj\Debug\SistemNe.Properties.Resources.resources
+C:\Users\erkan\source\repos\SistemNe\SistemNe\obj\Debug\SistemNe.csproj.GenerateResource.cache
+C:\Users\erkan\source\repos\SistemNe\SistemNe\obj\Debug\SistemNe.csproj.CoreCompileInputs.cache
+C:\Users\erkan\source\repos\SistemNe\SistemNe\obj\Debug\SistemNe.exe
+C:\Users\erkan\source\repos\SistemNe\SistemNe\obj\Debug\SistemNe.pdb
+C:\Users\erkan\source\repos\SistemNe\SistemNe\bin\Debug\Guna.UI2.dll
+C:\Users\erkan\source\repos\SistemNe\SistemNe\obj\Debug\SistemNe.csproj.CopyComplete
